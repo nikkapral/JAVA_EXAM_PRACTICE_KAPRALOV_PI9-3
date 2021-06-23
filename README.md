@@ -7,5 +7,8 @@
 быть с графическим интерфейсом JavaFX.
 
 # Результат:
-![2021-06-23_13-56-49](https://user-images.githubusercontent.com/57488928/123087225-f7719e00-d42c-11eb-8cde-32f215205813.png)
+![2021-06-23_13-56-49](https://user-images.githubusercontent.com/57488928/123087305-11ab7c00-d42d-11eb-9e40-8ba56a9ebf4b.png)
+#
+![2021-06-23_13-57-11](https://user-images.githubusercontent.com/57488928/123087358-1f610180-d42d-11eb-96cf-c1a0eab03fcd.png)
+
 
